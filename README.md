@@ -8,3 +8,4 @@ This is our repo for the hacktable project
 We faced a lot of challenges such as the api not working in soem instances and our video also had issues due to the connection.
 Reagrdless we used some prototype for the responses for symbl ai and hope the code is understandable
 
+
