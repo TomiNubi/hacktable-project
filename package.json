@@ -1,0 +1,26 @@
+{
+  "name": "hacktable-project",
+  "version": "1.0.0",
+  "description": "This is our repo for the hacktable project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomiNubi/hacktable-project.git"
+  },
+  "author": "Tomisin Ogunnubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomiNubi/hacktable-project/issues"
+  },
+  "homepage": "https://github.com/TomiNubi/hacktable-project#readme",
+  "dependencies": {
+    "Buffer": "0.0.0",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "symbl-node": "^1.0.13"
+  }
+}
