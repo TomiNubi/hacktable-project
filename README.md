@@ -1,11 +1,10 @@
 # Hacktable Project
-
+These are some of my edits for the code.
 
 This is our repo for the hacktable project
 
 # This is the read me file for the homepage
 
 
-This is not in main
+SOME NEW EDITS
 
-Edit further
